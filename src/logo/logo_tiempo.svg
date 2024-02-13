@@ -1,0 +1,15 @@
+<svg width="900" height="900" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path id="svg_2" d="m100,100l700,0l0,50l-700,0l0,-50z" opacity="undefined" stroke="#000" fill="#000000"/>
+  <path id="svg_3" d="m141,132" opacity="NaN" stroke="#000" fill="#fff"/>
+  <rect id="svg_4" height="200" width="50" y="100" x="100" stroke="#000" fill="#000000"/>
+  <path id="svg_5" d="m750,100l50,0l0,200l-50,0l0,-200z" opacity="undefined" stroke="#000" fill="#000000"/>
+  <path id="svg_6" d="m100,750l700,0l0,50l-700,0l0,-50z" stroke="#000" fill="#000000"/>
+  <rect id="svg_7" height="200" width="50" y="600" x="750" stroke="#000" fill="#000000"/>
+  <rect id="svg_8" height="200" width="50" y="600" x="100" stroke="#000" fill="#000000"/>
+  <path transform="rotate(26.9 450.008 449.946)" stroke="#000" id="svg_10" d="m70.33809,425.14032l759.34046,0l0,49.61172l-759.34046,0l0,-24.80586l0,-24.80586z" opacity="undefined" fill="#000000"/>
+  <path transform="rotate(-26.9 450.008 449.946)" stroke="#000" id="svg_12" d="m70.33809,425.14032l759.34047,0l0,49.61172l-759.34047,0l0,-24.80586l0,-24.80586z" opacity="undefined" fill="#000000"/>
+ </g>
+
+</svg>
